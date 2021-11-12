@@ -13,9 +13,11 @@ You can find the original project in which this one is based here: https://githu
 
 2. In said folder you'll open cmd, bash or Powershell. 
 
-3. To build the docker image you'll run this command in the folder you stored the files: `docker build ./ -t gdosbox_so`
+3. To build the docker image you'll run this command in the folder you stored the files: 
+`docker build ./ -t gdosbox_so`
 
-4. Then you'll run this command to initialize Dosbox an run it in the VNC server: `docker run -p 6080:80 gdosbox_so`
+4. Then you'll run this command to initialize Dosbox an run it in the VNC server: 
+`docker run -p 6080:80 gdosbox_so`
 
 5. To access the emulator and play, go to: http://localhost:6080/vnc.html
 
