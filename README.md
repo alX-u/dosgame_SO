@@ -1,6 +1,6 @@
 # Run DOS game with docker via an VNC server
 
-In this project we experiment with Dosbox and VNC in order to run a DOS game. In this case, we tried to run the popular Doom. 
+In this proyect we experiment with Dosbox and VNC in order to run a DOS game. In this case, we tried to run the popular Doom. 
 You can find the original project in which this one is based here: https://github.com/theonemule/dos-game
 
 ## Requirements to run the game: 
