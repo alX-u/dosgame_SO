@@ -25,4 +25,5 @@ You can find the original project in which this one is based here: https://githu
 
 7. Play!
 
+Note: To run another game simply replace the COPY DOOMS /dos/DOOMS with your game (for example COPY pacman /dos/pacman). 
 
