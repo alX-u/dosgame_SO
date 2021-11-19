@@ -19,11 +19,13 @@ You can find the original project in which this one is based here: https://githu
 4. Then you'll run this command to initialize Dosbox an run it in the VNC server: 
 `docker run -p 6080:80 gdosbox_so`
 
-5. To access the emulator and play, go to: http://localhost:6080/vnc.html
+5. To just pull the image from our Docker Hub, run this command: `docker pull alx14/dosgames_so:dosboxgame`
 
-6. When you access the page you'll introduce the password: 123456
+6. To access the emulator and play, go to: http://localhost:6080/vnc.html
 
-7. Play!
+7. When you access the page you'll introduce the password: 123456
+
+8. Play!
 
 Note: To run another game simply replace the COPY DOOMS /dos/DOOMS with your game (for example COPY pacman /dos/pacman). 
 
